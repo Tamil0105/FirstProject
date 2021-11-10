@@ -3,7 +3,7 @@ package com.test.demo;
 public class TestingGit {
 
 	public void atest() {
-		
+
 		System.out.println("testing");
 
 	}
@@ -13,4 +13,8 @@ public class TestingGit {
 
 	}
 
+	public void ctest() {
+		System.out.println("git testing for c");
+
+	}
 }
