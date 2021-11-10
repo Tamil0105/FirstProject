@@ -17,4 +17,9 @@ public class TestingGit {
 		System.out.println("git testing for c");
 
 	}
+
+	public void dtest() {
+		System.out.println("git testing for d");
+
+	}
 }
